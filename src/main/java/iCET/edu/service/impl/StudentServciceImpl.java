@@ -1,4 +1,4 @@
-package service.impl;
+package iCET.edu.service.impl;
 
 public class StudentServciceImpl {
 }

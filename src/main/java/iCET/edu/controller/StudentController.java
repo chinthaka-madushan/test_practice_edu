@@ -1,4 +1,4 @@
-package controller;
+package iCET.edu.controller;
 
 public class StudentController {
 }
